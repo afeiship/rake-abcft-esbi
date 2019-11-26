@@ -3,7 +3,7 @@
 
 ## installation
 ```bash
-npm i -D afeiship/rake-abcft-esbi
+npm i -D @feizheng/rake-abcft-esbi
 ```
 
 ## usage

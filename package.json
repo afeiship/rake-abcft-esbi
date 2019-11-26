@@ -1,0 +1,23 @@
+{
+  "name": "@feizheng/rake-abcft-esbi",
+  "version": "1.0.0",
+  "description": "Rake tools for esbi.",
+  "main": "index.rake",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/rake-abcft-esbi.git"
+  },
+  "keywords": [
+    "rake",
+    "task"
+  ],
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/rake-abcft-esbi/issues"
+  },
+  "homepage": "https://github.com/afeiship/rake-abcft-esbi#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}

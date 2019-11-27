@@ -1,6 +1,6 @@
 {
   "name": "@feizheng/rake-abcft-esbi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Rake tools for esbi.",
   "main": "index.rake",
   "repository": {

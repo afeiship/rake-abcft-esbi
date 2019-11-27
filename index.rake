@@ -15,4 +15,19 @@ namespace :app do
   task :mixin do
     sh 'yo @feizheng/react-app:mixin'
   end
+
+  desc "Clean yeoman cache"
+  task :yo_clean do
+    sh 'rake yo:clean'
+  end
+
+  ## clear other task
+  Rake::Task.tasks.each do |task|
+    unless task.name.include?('app:')
+      task.clear_comments
+    end
+  end
 end
+
+
+

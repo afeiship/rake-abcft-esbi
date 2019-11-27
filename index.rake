@@ -18,7 +18,7 @@ namespace :app do
 
   desc "Clean yeoman cache"
   task :yo_clean do
-    sh 'rake yo:clean'
+    sh 'rake yo:cleang'
   end
 
   ## clear other task

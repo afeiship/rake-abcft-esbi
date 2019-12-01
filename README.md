@@ -12,3 +12,6 @@ rake app:mixin    # Create react-app:mixin
 rake app:service  # Create react-app:service
 rake app:view     # Create react-app:view
 ~~~
+
+## todos
+- [ ] react-app params

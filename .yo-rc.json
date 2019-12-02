@@ -1,0 +1,10 @@
+{
+  "@feizheng/generator-react-app": {
+    "prefix": "my-",
+    "dirs": {
+      "views": "./src/components/views",
+      "mixins": "./src/components/mixins",
+      "services": "./src/components/services"
+    }
+  }
+}

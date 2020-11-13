@@ -3,7 +3,7 @@
 
 ## installation
 ```bash
-npm i -D @feizheng/rake-abcft-esbi
+npm i -D @jswork/rake-abcft-esbi
 ```
 
 ## usage
